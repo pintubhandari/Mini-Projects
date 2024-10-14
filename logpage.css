@@ -1,0 +1,73 @@
+.main_box {
+    height: 400px;
+    width: 350px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    opacity: 1;
+    margin: auto;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    font-size: large;
+}
+
+#email {
+    background-color: white;
+    opacity: 0.5; 
+    width: 200px; 
+    height: 25px;
+}
+
+.mail {
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+.pass {
+    margin-left: 65px;
+    margin-top: 75px;
+}
+
+#password {
+    background-color: white;
+    opacity: 0.5; 
+    width: 200px;
+    height: 25px;
+}
+
+.log {
+    margin-left: 65px;
+    margin-top: 30px;
+    width: 210px;
+    height: 30px;
+    background-color: rgb(168, 130, 238);
+    color: white;
+}
+
+#button {
+    background-color: rgb(168, 130, 238);
+    border: 2px solid rgb(168, 130, 238);
+    padding: 5px 83px;
+    
+}
+
+.creat {
+    margin-left: 65px;
+    margin-top: 25px;
+}
+
+a {
+    color: rgb(132, 130, 238);
+    text-decoration: none;
+    font-size: small;
+}
+
+.forgot {
+    margin-left: 185px;
+    margin-top: -17px;
+   
+}
